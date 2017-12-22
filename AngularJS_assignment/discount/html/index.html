@@ -1,0 +1,44 @@
+
+#html
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <script data-require="angular.js@1.4.0-beta.6" data-semver="1.4.0-beta.6" src="https://code.angularjs.org/1.4.0-beta.6/angular.js"></script> 
+    <script src="../js/controller/ProductCtrl.js"></script>
+    <script src="../js/factory/productFactory.js"></script>
+     <script src="../js/controller/app.js"></script>
+     <link rel="stylesheet" type="text/css" href="../css/app.css"> 
+     <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+
+  </head>
+
+    <body ng-app="app">
+    <div ng-controller="ProductCtrl">
+      <table class="table table-hover"> 
+          <thead> 
+            <tr> 
+               <th>Brand</th> 
+               <th>Type</th> 
+               <th>MRP</th> 
+            </tr> 
+          </thead> 
+          <tbody> 
+            <tr ng-repeat="x in product.root.element | orderBy:'toString()'"> 
+               <td>{{x.brand}}</td> 
+               <td>{{x.type}}</td> 
+               <td>{{x.mrp}}</td> 
+            </tr> 
+          </tbody> 
+      </table> 
+
+
+     <!--  <p ng-repeat= "x in product" >Product Brand: {{x.brand}} MRP: {{x.mrp}} Type: {{x.type}}</p> -->
+
+    </div>
+  </body>
+</html>

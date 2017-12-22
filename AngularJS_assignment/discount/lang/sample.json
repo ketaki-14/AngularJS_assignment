@@ -1,0 +1,78 @@
+[{ 
+    "brand": "Dove", 
+    "type": "Soap", 
+    "mrp" : 50 
+  }, 
+{ 
+    "brand": "Britania", 
+    "type": "biscuits", 
+    "mrp" : 5 
+    
+  }, 
+  { 
+    "brand": "Nivea", 
+    "type": "Soap", 
+    "mrp" : 25 
+   
+  }, 
+{ 
+    "brand": "Clinic plus", 
+    "type": "shampoo", 
+    "mrp" : 150 
+   
+  }, 
+  { 
+    "brand": "Amul", 
+    "type": "Food", 
+    "mrp" : 100 
+   
+  }, 
+  { 
+    "brand": "Fastrack", 
+    "type": "Bag", 
+    "mrp" : 1000 
+   
+  }, 
+  { 
+    "brand": "Titan", 
+    "type": "watch", 
+    "mrp" : 5000 
+   
+  }, 
+  { 
+    "brand": "Ranka", 
+    "type": "Jewellery", 
+    "mrp" : 50000 
+   
+  }, 
+  { 
+    "brand": "Dell", 
+    "type": "Laptop", 
+    "mrp" : 60000 
+   
+  }, 
+  { 
+    "brand": "Samsung", 
+    "type": "Phone", 
+    "mrp" : 23000 
+   
+  }, 
+  { 
+    "brand": "5 Star", 
+    "type": "Cadbury", 
+    "mrp" : 10 
+   
+  }, 
+  { 
+    "brand": "LG", 
+    "type": "TV", 
+    "mrp" : 250000 
+  
+  }, 
+  { 
+    "brand": "Godrej", 
+    "type": "Room freshner", 
+    "mrp" : 50 
+    
+  }] 
+

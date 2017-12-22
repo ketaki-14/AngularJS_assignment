@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+   <element>
+      <brand>DIVE</brand>
+      <mrp>100</mrp>
+      <type>Soap</type>
+   </element>
+   <element>
+      <brand>Britania</brand>
+      <mrp>5</mrp>
+      <type>biscuits</type>
+   </element>
+   <element>
+      <brand>Nivea</brand>
+      <mrp>25</mrp>
+      <type>Soap</type>
+   </element>
+   <element>
+      <brand>Clinic plus</brand>
+      <mrp>150</mrp>
+      <type>shampoo</type>
+   </element>
+   <element>
+      <brand>Amul</brand>
+      <mrp>100</mrp>
+      <type>Food</type>
+   </element>
+   <element>
+      <brand>Fastrack</brand>
+      <mrp>1000</mrp>
+      <type>Bag</type>
+   </element>
+   <element>
+      <brand>Titan</brand>
+      <mrp>5000</mrp>
+      <type>watch</type>
+   </element>
+   <element>
+      <brand>Ranka</brand>
+      <mrp>50000</mrp>
+      <type>Jewellery</type>
+   </element>
+   <element>
+      <brand>Dell</brand>
+      <mrp>60000</mrp>
+      <type>Laptop</type>
+   </element>
+   <element>
+      <brand>Samsung</brand>
+      <mrp>23000</mrp>
+      <type>Phone</type>
+   </element>
+   <element>
+      <brand>5 Star</brand>
+      <mrp>10</mrp>
+      <type>Cadbury</type>
+   </element>
+   <element>
+      <brand>LG</brand>
+      <mrp>250000</mrp>
+      <type>TV</type>
+   </element>
+   <element>
+      <brand>Godrej</brand>
+      <mrp>50</mrp>
+      <type>Room freshner</type>
+   </element>
+</root>
+
